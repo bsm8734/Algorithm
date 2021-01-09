@@ -7,6 +7,11 @@
 *.filters
 *.vcxproj.user
 *.user
+*.sln
+*.vcxproj.filters
+*.vcxproj.user
+(미해결)*
+(추가문제)*
 
 # 다음과 같은 파일 모두 무시
 input.txt
