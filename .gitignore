@@ -16,6 +16,7 @@
 # 다음과 같은 파일 모두 무시
 input.txt
 output.txt
+.DS_Store
 
 # 폴더무시
 x64/
